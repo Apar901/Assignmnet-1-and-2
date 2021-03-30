@@ -1,5 +1,6 @@
 /*This program take the path and prints out the files, directories,
 * and the bytes of all the files of the given directory.
+* adding more comments for the assignment
 */
 #include <iostream>
 #include <dirent.h>
